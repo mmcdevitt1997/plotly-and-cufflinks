@@ -1,0 +1,7 @@
+{
+    "python.pythonPath": "/Users/MatthewMcdevitt/.pyenv/shims/python",
+    "python.jediEnabled": false,
+    "cSpell.words": [
+        "randn"
+    ]
+}
